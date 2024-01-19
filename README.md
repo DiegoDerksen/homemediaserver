@@ -22,6 +22,6 @@ I'll be posting guides in this repo so you can make your own media server.
 
 ## Nvidia Shield TV Pro Software:
 * [Jellyfin Client](https://jellyfin.org/)
-* [Projectivity Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/)
+* [Projectivity Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) Follow [this](https://github.com/DiegoDerksen/homemediaserver/tree/main/Nvidiashield-debloating#2-installing-a-custom-launcher) guide to install
 * [SmartTubeNext](https://github.com/yuliskov/smarttube) (Ad-free YouTube)
 * Fully debloated using the following [guide](https://github.com/DiegoDerksen/homemediaserver/tree/main/Nvidiashield-debloating)

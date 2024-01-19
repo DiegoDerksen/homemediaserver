@@ -31,6 +31,7 @@ After installing ADB on your PC
 adb connect (IP-of-your-Shield)
 ```
 * You'll see a new pop-up on the Shield to allow ADB/Network Debugging. Click on "OK"
+  
 To confirm that you're connected to the Shield, use the following command
 ```
 adb devices
@@ -55,7 +56,7 @@ adb shell pm uninstall -k --user 0 com.nvidia.ota & adb shell pm uninstall -k --
 ```
 adb shell pm uninstall -k --user 0 com.google.android.speech.pumpkin & adb shell pm uninstall -k --user 0 com.google.android.tts & adb shell pm uninstall -k --user 0 com.google.android.videos & adb shell pm uninstall -k --user 0 com.google.android.tvrecommendations & adb shell pm uninstall -k --user 0 com.google.android.syncadapters.calendar & adb shell pm uninstall -k --user 0 com.google.android.backuptransport & adb shell pm uninstall -k --user 0 com.google.android.partnersetup & adb shell pm uninstall -k --user 0 com.google.android.inputmethod.korean & adb shell pm uninstall -k --user 0 com.google.android.inputmethod.pinyin & adb shell pm uninstall -k --user 0 com.google.android.apps.inputmethod.zhuyin & adb shell pm uninstall -k --user 0 com.google.android.tv & adb shell pm uninstall -k --user 0 com.google.android.tv.frameworkpackagestubs & adb shell pm uninstall -k --user 0 com.google.android.tv.bugreportsender & adb shell pm uninstall -k --user 0 com.google.android.backdrop & adb shell pm uninstall -k --user 0 com.google.android.leanbacklauncher.recommendations & adb shell pm uninstall -k --user 0 com.google.android.feedback
 ```
-***Only uninstall the following if another launcher is installed***
+***Only disable the following if another launcher is installed***
 ```
 adb shell pm disable -k --user 0 com.google.android.tvlauncher
 adb shell pm disable -k --user 0 com.google.android.leanbacklauncher

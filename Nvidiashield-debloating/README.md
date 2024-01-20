@@ -19,9 +19,7 @@ brew install android-platform-tools
 ## Install ADB on Windows
 * Download [Android SDK Platform Tools ZIP file for Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 * Extract the contents of this ZIP file into an easily accessible folder (such as C:\platform-tools)
-* Open File Explorer and browse to where you extracted the contents of this ZIP file
-* Open up a Command Prompt/Terminal instance from the same directory as this ADB executable. This can be done by holding Shift and right-clicking within the folder and then clicking Open command window here or Open PowerShell window here. Windows 11 users should see Open in Terminal in the right-click context menu without even pressing the Shift button on the keyboard.
-
+  
 # Steps
 ## 1. Enable ADB on the Shield
 ### 1a. Enable developer options

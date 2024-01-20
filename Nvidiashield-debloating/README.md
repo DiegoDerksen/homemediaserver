@@ -39,7 +39,7 @@ brew install android-platform-tools
 * Note the IP address of the Shield to access it through ADB
 
 ### 1c. Connect to shield through ADB
-After installing ADB on your PC/Mac (If you're on Windows go to the extracted ADB folder and use the commands)
+After installing ADB on your PC/Mac (If you're on Windows go to the extracted ADB folder open up a Command Prompt/Terminal instance from the same directory as this ADB executable. This can be done by holding Shift and right-clicking within the folder and then clicking Open command window here or Open PowerShell window here)
 * Use the terminal/cmd to type the following command
 ```
 adb connect (IP-of-your-Shield)

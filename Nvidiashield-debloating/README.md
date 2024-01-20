@@ -8,7 +8,7 @@ Speeding up your Nvidia Shield TV and installing a custom launcher to hide ads.
 * [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/#how-to-set-up-adb-on-your-computer)
 
 ## Install ADB on MacOS:
-* Install Homebrew
+* Open Terminal and install Homebrew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```

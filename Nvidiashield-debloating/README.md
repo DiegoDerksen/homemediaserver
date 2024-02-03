@@ -51,7 +51,7 @@ adb devices
 
 ## 2. Installing a custom launcher
 * Go to the Google Play Store on the Shield
-* Search ["Projectivity Launcher"](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
+* Search ["Projectivy Launcher"](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
 * Click on Install and open the launcher
 * Allow all permissions when it asks and allow in accessibility settings
 * We are going to disable the default launcher in step 3.
